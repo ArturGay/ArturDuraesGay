@@ -1,0 +1,8 @@
+{
+  "name": "Artur Durães",
+  "description": "O site oficial de Artur Durães, o sissificado com o bumbum guloso do Rio de Janeiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
